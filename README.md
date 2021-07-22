@@ -9,7 +9,7 @@ ReportsScraper crawls through the pages publications on the ACLU website to iden
 <br><b>Date:</b> The date of publication.
 <br><b>pdf_Name:</b> The file name of the pdf downloaded.
 <br><b>Description:</b> The text accompanying the pdf on the webpage, if present.
-<b>Related_Issues:</b> Topic links included at the bottom of the page that serve as subject headings.
+<br><b>Related_Issues:</b> Topic links included at the bottom of the page that serve as subject headings.
 
 ----------------------------------------------------
 
