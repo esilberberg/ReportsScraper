@@ -6,9 +6,9 @@ ABOUT:
 ReportsScraper crawls through the pages publications on the ACLU website to identify and download all reports. After completing the downloads, the script creates a manifest (CSV file) containing key metadata: 
 
 <b>Title:</b> The title of the report.
-<b>Date:</b> The date of publication.
-<b>pdf_Name:</b> The file name of the pdf downloaded.
-<b>Description:</b> The text accompanying the pdf on the webpage, if present.
+<br><b>Date:</b> The date of publication.
+<br><b>pdf_Name:</b> The file name of the pdf downloaded.
+<br><b>Description:</b> The text accompanying the pdf on the webpage, if present.
 <b>Related_Issues:</b> Topic links included at the bottom of the page that serve as subject headings.
 
 ----------------------------------------------------
